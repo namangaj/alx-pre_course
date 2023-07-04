@@ -1,1 +1,1 @@
-My first readme
+Mastering SE Course and Creating README
